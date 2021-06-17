@@ -6,8 +6,6 @@
 void menu()
 {
 	printf("###############################\n");
-	printf("###########猜数字游戏##########\n");
-	printf("###############################\n");
 	printf("######  1.开始   0.退出  ######\n");
 	printf("###############################\n");
 }
@@ -19,7 +17,8 @@ void game()
 	shu = rand();//生成随机数
 	shu = shu % 100 + 1;
 	printf("请猜一个数:>");
-	scanf("%d", &shu);
+	printf("%d", shu);
+	scanf("%d", &cai);
 	//猜数字
 	
 	while (1)
@@ -61,8 +60,7 @@ int main()
 			game();
 			break;
 		default:
-			printf("请输入正确选项：");
-			scanf("%d", &a);
+			printf("请输入正确选项:>\n");
 			break;
 		case 0:
 			break;
