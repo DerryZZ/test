@@ -17,7 +17,11 @@ void game()
 	shu = rand();//生成随机数
 	shu = shu % 100 + 1;
 	printf("请猜一个数:>");
+<<<<<<< HEAD
 	//printf("%d", shu);
+=======
+	printf("%d", shu);
+>>>>>>> 53a651a94b34c35a6ea34a42595e3fe50f7d50ee
 	scanf("%d", &cai);
 	//猜数字
 	while (1)

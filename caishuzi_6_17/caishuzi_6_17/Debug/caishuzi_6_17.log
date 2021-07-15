@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿生成启动时间为 2021/6/17 15:03:44。
+=======
+﻿生成启动时间为 2021/6/17 14:57:11。
+>>>>>>> 53a651a94b34c35a6ea34a42595e3fe50f7d50ee
      1>项目“D:\C\test\caishuzi_6_17\caishuzi_6_17\caishuzi_6_17.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt caishuzi.c
@@ -10,4 +14,8 @@
 
 生成成功。
 
+<<<<<<< HEAD
 已用时间 00:00:00.77
+=======
+已用时间 00:00:00.57
+>>>>>>> 53a651a94b34c35a6ea34a42595e3fe50f7d50ee
