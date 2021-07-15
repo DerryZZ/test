@@ -18,7 +18,11 @@ void game()
 	shu = shu % 100 + 1;
 	printf("Çë²ÂÒ»¸öÊı:>");
 <<<<<<< HEAD
+<<<<<<< HEAD
 	//printf("%d", shu);
+=======
+	printf("%d", shu);
+>>>>>>> 53a651a94b34c35a6ea34a42595e3fe50f7d50ee
 =======
 	printf("%d", shu);
 >>>>>>> 53a651a94b34c35a6ea34a42595e3fe50f7d50ee
